@@ -17,7 +17,7 @@ FlowBoard transforms a simple to-do app into a more complete productivity worksp
 ## 🚀 Live Demo
 
 🌐 **Deployable Web App:**
-[FlowBoard Task Manager Live Demo](https://taskmanager-d8l.pages.dev?utm_source=chatgpt.com)
+[FlowBoard Task Manager Live Demo](https://taskmanager-d8l.pages.dev)
 
 ---
 
