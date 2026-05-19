@@ -1,7 +1,7 @@
 FlowBoard Task Manager
 
 A dark, modern task management web application built as a single-file frontend project. It turns a simple to-do experience into a richer workspace with projects, priorities, status stages, filters, analytics, list view, and Kanban-style board view.
-<a href:"https://taskmanager-d8l.pages.dev/" alt="webpage workin progress">WEBPAGE</a>
+Deployable webpage to view the Project:=> https://taskmanager-d8l.pages.dev
 Overview
 
 FlowBoard Task Manager is designed as a lightweight personal productivity workspace that feels closer to a real task manager than a plain checklist. Modern task management products commonly include multiple task views, progress visibility, project grouping, and workflow stages, which shaped the structure of this app.
